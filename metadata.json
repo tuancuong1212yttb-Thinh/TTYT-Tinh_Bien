@@ -1,0 +1,5 @@
+{
+  "name": "TTY Tịnh Biên - Dashboard Quản trị Y tế",
+  "description": "Hệ thống quản trị toàn diện cho Trung tâm Y tế Tịnh Biên. Theo dõi chỉ tiêu chuyên môn, doanh thu, phân tích ICD-10 và hiệu suất nhân sự.",
+  "requestFramePermissions": []
+}
